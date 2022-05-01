@@ -1,4 +1,4 @@
-# Adelie-Linux
+# Forsteri Linux
 Gaming distro of Debian with KDE Plasma bigscreen, SteamOS, and More!
 
 ## Instructions
