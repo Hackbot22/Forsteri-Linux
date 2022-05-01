@@ -1,4 +1,7 @@
 # Adelie-Linux
-Gaming distro of Ubuntu WSL.
+Gaming distro of Debian.
 
-## Features
+## Instructions
+<b>1.</b> Go into Konsole.
+<b>2.</b> Type <i>chmod +x *</i>
+<b>3.</b> Type <i>bash setup.sh</i>
