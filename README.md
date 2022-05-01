@@ -1,5 +1,5 @@
 # Adelie-Linux
-Gaming distro of Debian.
+Gaming distro of Debian with KDE Plasma bigscreen.
 
 ## Instructions
 <b>1.</b> Go into Konsole.
