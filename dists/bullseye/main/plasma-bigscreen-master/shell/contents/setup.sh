@@ -13,9 +13,12 @@ sudo apt-get update
 sudo apt-get install -y alien
 sudo apt-get update
 sudo apt-get install snapd
+sudo snap install retroarch
 clear
 read url
 wget url
 clear
 read file
 sudo alien -ci file
+sudo apt-get update
+sudo apt-get upgrade
