@@ -11,6 +11,8 @@ sudo apt-get install -s gdebi -y
 gdebi libudev0_175-0ubuntu19_amd64.deb steamos-modeswitch-inhibitor_1.10+bsos1_amd64.deb steamos-compositor_1.34+bsos1_amd64.deb
 sudo apt-get update
 sudo apt-get install -y alien
+sudo apt-get update
+sudo apt-get install snapd
 clear
 read url
 wget url
